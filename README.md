@@ -1,0 +1,2 @@
+# ShellTermux-thura-
+Hello Guy
